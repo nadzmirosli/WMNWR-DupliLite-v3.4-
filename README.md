@@ -1,4 +1,5 @@
 # WMNWR-DupliLite-v3.4-
+https://claude.ai/share/5587334f-cfcd-4087-b1f8-338db41bb3a2
 A lightweight Microsoft Edge (Chromium) extension that automatically detects and highlights duplicate words and numbers on any webpage, with no manual search or trigger needed.
 
 WMNWR DupliLite (v3.4)
